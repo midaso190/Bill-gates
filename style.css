@@ -1,0 +1,14 @@
+body {
+  background-color: purple;
+  color: white;
+}
+
+.menu
+{
+  display: flex;
+  list-style: none;
+}
+
+.menu li {
+  margin-right: 50px;
+}
